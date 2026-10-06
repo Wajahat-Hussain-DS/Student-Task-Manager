@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Task Manager</title>
+</head>
+<body>
+
+    <h1>Student Task Manager</h1>
+
+   <label for="title">Task Title:</label>
+<input type="text" id="title" placeholder="Task Title" required>
+
+<br><br>
+
+<label for="description">Description:</label>
+<textarea id="description" placeholder="Task Description" required></textarea>
+
+    <button>Add Task</button>
+
+</body>
+</html>

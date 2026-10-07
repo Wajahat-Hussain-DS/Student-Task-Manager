@@ -9,6 +9,7 @@ The Student Task Management System is designed to help students record, search, 
 ## Team Members
 
 - **Wajahat Hussain** — Project owner and developer
+-  **Muhammad Abubakar** — Project partner and developer
 
 ## Features
 

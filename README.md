@@ -1,1 +1,2 @@
-# Student Task Management Platform
+# Student Task Management Application
+
